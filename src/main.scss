@@ -1,0 +1,17 @@
+@import './sass/base/reset';
+@import './sass/components/register';
+@import './sass/utils/utils';
+@import './sass/components/messenger';
+@import './sass/layout/grid.scss';
+@import './sass/components/activeFriend';
+@import './sass/components/friends';
+@import './sass/components/rightSide';
+@import './sass/components/message';
+@import './sass/components/messageSend';
+@import './sass/components/friendInfo';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Montserrat", sans-serif;
+    background-color: #232937;
+}
